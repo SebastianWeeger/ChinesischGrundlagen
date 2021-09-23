@@ -1,14 +1,14 @@
-# ChinesischGrundlagen
+# 1. ChinesischGrundlagen
 Markdown-Projekt zum Lernen und Wiederholen der chinesisch Grundlagen
 
-## Abschnitte
+## 1.1. Abschnitte
 
-### Alltag
+### 1.1.1. Alltag
 
-### Essen & Trinken
+### 1.1.2. Essen & Trinken
 
-### Menschen
+### 1.1.3. Menschen
 
-### Zahlen & Zeit
+### 1.1.4. Zahlen & Zeit
 
-### Sprachen & Länder
+### 1.1.5. Sprachen & Länder
