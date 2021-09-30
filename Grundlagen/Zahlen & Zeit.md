@@ -58,7 +58,7 @@ Bis auf der Sonntag werden die Wochentage einfach durchgezählt.
 |            |                |                |
 | die Woche  | xīngqī         | 星期           |
 
-Wenn du nach dem Wochentag fragen willst verwende **xīngqī jǐ**
+Wenn du nach dem Wochentag fragen willst verwende **xīngqī jǐ**.  
 | Deutsch            | Pinyin         | Schriftzeichen |
 | ------------------ | -------------- | -------------- |
 | welcher Wochentag? | xīngqī **jǐ**? | 星期​几        |
