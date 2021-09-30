@@ -5,9 +5,7 @@ Für viele Wörter gibt es nur nicht nur eine Übersetzung, i.d.R. verwende ich 
 
 ## Pinyin [pīnyīn]
 <details>
-<summary>
-  <h3>Definition</h3>
-</summary>
+<summary>Definition</summary>
   
 >Hanyu Pinyin Fang’an (chinesisch 漢語拼音方案 / 汉语拼音方案, Pinyin Hànyǔ Pīnyīn Fāng’àn – „Programm zur Fixierung der Laute im Chinesischen“), meist nur kurz Pinyin (拼音), zur Abgrenzung von Tongyong Pinyin (通用拼音, Tōngyòng Pīnyīn) auch Hanyu Pinyin (漢語拼音 / 汉语拼音) genannt, ist die offizielle chinesische Romanisierung des Hochchinesischen in der Volksrepublik China. Diese von Zhou Youguang entwickelte phonetische Umschrift auf der Basis des lateinischen Alphabets wurde vom Staatsrat am 6. Februar 1956 offiziell beschlossen und Ende 1957 genehmigt.[1] Sie löste damit auf dem Festland die 1921 eingeführte nicht-lateinische Zhuyin-Umschrift (Bopomofo) ab.  
 *Quelle: [Wikipedia - Pinyin](https://de.wikipedia.org/wiki/Pinyin)*  
