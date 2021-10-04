@@ -1,4 +1,4 @@
-# 1. ChinesischGrundlagen
+# 1. Chinesisch Grundlagen
 Dies ist mein erstes privates Markdown-Projekt zum Lernen und Wiederholen der chinesisch Grundlagen.
 Für viele Wörter gibt es nur nicht nur eine Übersetzung, i.d.R. verwende ich die Übersetzung, welche ich in einer chinesisch HSK-App gelernt habe.
 > HSK - Hanyu Shuiping Kaoshi = Offizieller Chinesisch-Test 

@@ -13,7 +13,7 @@
 | Ingenieur      | gōngchéngshī   | 工程师         |
 | Angestelter    | gōngsī zhíyuán | 志愿 职员      |
 | Anwalt         | lǜshī          | 律师           |
-|Koch|chúshī |厨师 |
+| Koch           | chúshī         | 厨师           |
 
 ## Arbeitsorte
 
