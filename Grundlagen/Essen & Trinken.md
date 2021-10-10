@@ -18,6 +18,7 @@ chī 吃
 | 🍍   | Ananas                 | gè       | bōluó      | 菠萝           |
 | 🍒   | Kirsche                | gè       | yīngtáo    | 樱桃           |
 | 🍑   | Pfirsich               | gè       | táozi      | 桃子           |
+| 🍋   | Zitrone                | gè       | níngméng   | 柠檬           |
 |     |                        |          |            |                |
 | 🥬   | **Gemüse**             |          | cài        | 菜             |
 | 🍅   | Tomate                 | gè       | xīhóngshì  | 西红柿         |
@@ -39,8 +40,9 @@ chī 吃
 |     | **Nahrungsmittel**     |          | shícái     | 食材           |
 | 🥚   | Eier                   | gè       | jīdàn      | 鸡蛋           |
 | 🥛   | Milch                  | gè       | niúnǎi     | 牛奶           |
-| 🍞   | Brot                   | gè       | miànbāo    | 面包           |
+| 🍞   | Brot                   | gè, piàn | miànbāo    | 面包           |
 | 🍨   | Eiscreme               | gè       | bīngqílín  | 冰淇淋         |
+| 🍫   | Schokolade             | kuài     | qiǎokèlì   | 巧克力         |
 | 🍕   | Pizza                  | gè, piàn | pīsà       | 披萨           |
 | 🍔   | Hamburger              | gè       | hànbǎo     | 汉堡           |
 
@@ -75,6 +77,7 @@ hē 喝
 | --- | ------------------ | -------- | -------------- |
 | 💧   | Wasser             | shuǐ     | 水             |
 | 🧃   | Fruchtsaft         | guǒzhī   | 果汁           |
+|     | Cola               | kělè     | 可乐           |
 | ☕   | Kaffee             | kāfēi    | 咖啡           |
 | 🍵   | Tee                | chá      | 茶             |
 |     | Alkohol            | jiǔ      | 酒             |
@@ -82,6 +85,8 @@ hē 喝
 | 🍷   | Wein (Traubenwein) | pútáojiǔ | 葡萄酒         |
 
 ### Zählwörter
-| Deutsch           | Pinyin | Beispiel   | Schriftzeichen |
-| ----------------- | ------ | ---------- | -------------- |
-| Glas/Tasse/Becher | bēi    | yī bēi chá | 杯​            |
+|     | Deutsch           | Pinyin | Beispiel      | Schriftzeichen |
+| --- | ----------------- | ------ | ------------- | -------------- |
+| 🥛   | Glas/Tasse/Becher | bēi    | yī bēi chá    | 杯​            |
+| 🍾   | Flasche           | píng   | yī píng píjiǔ | 瓶             |
+| 🥫   | Dose              | tīng   | yī tīng kělè  | 听             |
