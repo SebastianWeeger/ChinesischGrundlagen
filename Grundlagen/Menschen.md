@@ -44,7 +44,7 @@
 | älterer Schwester       | jiějie        | 姐姐           |
 | jüngerer Schwester      | mèimei        | 妹妹           |
 |                         |               |                |
-| Opa (väterlicherseits)  | nǎinai        | 爷爷           |
+| Opa (väterlicherseits)  | yéye        | 爷爷           |
 | Oma (väterlicherseits)  | nǎinai        | 奶奶           |
 | Opa (mütterlicherseits) | wàigōng       | 外公           |
 | Oma (mütterlicherseits) | wàipó         | 外婆           |

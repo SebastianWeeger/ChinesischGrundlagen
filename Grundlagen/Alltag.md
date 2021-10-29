@@ -89,3 +89,48 @@ wǒ bù xǐhuān ...
 | 🟦   | blau    | lánsè   | 蓝色           |
 | 🟩   | grün    | lǜsè    | 绿色           |
 | 🟫   | braun   | zōngsè  | 棕色           |
+
+## Wohnen/Leben
+
+|     | Deutsch             | Pinyin       | Zählwort | Schriftzeichen |
+| --- | ------------------- | ------------ | -------- | -------------- |
+| 🪑   | Stuhl               | yǐzi         |          | 椅子           |
+|     | Tisch               | zhuōzi       |          | 桌子           |
+| 🛌   | Bett                | chuáng       |          | 床             |
+|     |                     |              |          |                |
+| 🏠   | Wohnung (Gebäude)   | fángzi       |          | 房子           |
+| 🛌   | Schlafzimmer        | wòshì        |          | 卧室           |
+| 🛋   | Wohnzimmer          | kètīng       |          | 客厅           |
+| 🍳   | Küche               | chúfáng      |          | 厨房           |
+| 🚿🚽  | Badezimmer/Toilette | wèishēngjiān |          | 卫生间         |
+
+|     | Deutsch          | Pinyin        | Schriftzeichen |
+| --- | ---------------- | ------------- | -------------- |
+|  🧍‍♂️   | aufstehen        | qǐchuáng      | 起床           |
+|  😴   | schlafen         | shuìjiào      | 睡觉           |
+|  🥗   | essen            | chī           | 吃             |
+|  🥃   | trinken          | hē            | 喝             |
+|  🎒   | zur Schule gehen | (qù) shàngxué | 上学           |
+| 🏦    | zur Arbeit gehen | (qù) shàngbān | 上班           |
+|  🚶‍♀️   | gehen (hingehen) | qù            | 去             |
+|  🚶‍♂️   | kommen           | lái           | 来             |
+
+### Freizeit
+|     | Deutsch                        | Pinyin         | Schriftzeichen |
+| --- | ------------------------------ | -------------- | -------------- |
+|     | Sport machen                   | yùndòng        | 运动           |
+| 🧗‍♂️   | klettern/bergsteigen (wandern) | páshān         | 爬山           |
+| 🎿   | skifahren                      | huáxuě         | 滑雪           |
+|     | Schlittschuh fahren            |                |                |
+| 🏃‍♀️   | Laufen gehen                   | (qù) pǎobù     | (去) 跑步      |
+| 🏊‍♂️   | schwimmen                      | yóuyǒng        | 游泳           |
+|     | spielen (schlagen)             | dǎ             | 打             |
+|     | treten                         | tī             | 踢             |
+|     |                                |                |                |
+| 🏀   | Basketball spielen             | dǎ lánqiú      | 打​篮球        |
+| 🎾   | Tennis spielen                 | dǎ wǎngqiú     | 打网球         |
+| 🏓   | Tischtennis spielen            | dǎ pīngpāngqiú | 打乒乓球       |
+| ⚽   | Fussball spielen               | tī zúqiú       | 踢​足球        |
+
+
+

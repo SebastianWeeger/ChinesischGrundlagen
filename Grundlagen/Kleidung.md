@@ -27,3 +27,20 @@ Kleidung kombiniert sich natürlich am besten mit den [Farben](Alltag.md#farben)
 | lange und enge Objekte          | tiáo   | yí tiáo kùzi      | 一条 裤子      |
 | Paar                            | shuāng | yí shuāng xié     | 双             |
 | Dinge in Paaren (nur ein Stück) | zhī    | yí shuāng shǒutào | 只             |
+
+##
+| Deutsch            | Pinyin   | Beispiel | Schriftzeichen |
+| ------------------ | -------- | -------- | -------------- |
+| als (vergleichen)  | bǐ ...   |          | 比             |
+| groß               | dà       |          | 大             |
+| klein              | xiǎo     |          | 小             |
+| lang               | cháng    |          |                |
+| kurz               | duǎn     |          | 短             |
+| weit               | kuān     |          | 宽             |
+| schmal             | zhǎi     |          | 窄             |
+| viel               | yángyáng |          | 洋洋           |
+| wenig              | shǎo     |          | 少             |
+| ein wenig/bisschen | yīdiǎnr  |          | 一点儿         |
+| ein wenig          | yīxiē    |          | 一些           |
+
+
