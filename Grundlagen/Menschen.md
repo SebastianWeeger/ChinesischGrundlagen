@@ -44,10 +44,22 @@
 | älterer Schwester       | jiějie        | 姐姐           |
 | jüngerer Schwester      | mèimei        | 妹妹           |
 |                         |               |                |
-| Opa (väterlicherseits)  | yéye        | 爷爷           |
+| Opa (väterlicherseits)  | yéye          | 爷爷           |
 | Oma (väterlicherseits)  | nǎinai        | 奶奶           |
 | Opa (mütterlicherseits) | wàigōng       | 外公           |
 | Oma (mütterlicherseits) | wàipó         | 外婆           |
 
 ## Nationalitäten
 Siehe hierzu den Abschnitt [Länder, Sprachen & Nationalitäten](Länder,%20Sprachen%20&%20Nationalitäten.md)
+
+## Adjektive für Menschen
+| Deutsch                 | Pinyin | Schriftzeichen |
+| ----------------------- | ------ | -------------- |
+| hübsch (weiblich)       |  piàoliang| 漂亮               |
+| gutaussehend (männlich) |   shuài     |     帅           |
+| alt                     |  jiù      |旧 |
+| jung                    |  niánqīng |   年轻             |
+| groß                    |      dà   |      大          |
+| klein                   |  xiǎo      |     小           |
+| schlank/dünn            |        |                |
+| dick                    |        |                |

@@ -1,6 +1,15 @@
 # Kleidung
 Kleidung kombiniert sich natürlich am besten mit den [Farben](Alltag.md#farben).
 
+|einkaufen| mǎi |买|
+|sachaufensterbummeln |guàngjiē| 逛街|
+
+Ich verkaufe Äpfel.
+Wǒ mài píngguǒ.
+
+Ich kaufe Äpfel.
+Wǒ mǎi píngguǒ.
+
 |     | Deutsch         | Zählwort | Pinyin   | Schriftzeichen |
 | --- | --------------- | -------- | -------- | -------------- |
 |     | Kleider         | jiàn     | yīfu     | (件) 衣服      |

@@ -6,9 +6,10 @@
 | 🌤   | Wetter          | tiānqì    | 天气           |
 | 🌡   | Lufttemperatur  | qìwēn     | 气温           |
 | 🌡   | Temperatur      | wēndù     | 温度           |
-|     | kühl (angenehm) | liángkuài | 凉快           |
+| 🌡   | Grad (Celsius)  | dù        | 度             |
+| 😎   | kühl (angenehm) | liángkuài | 凉快           |
 | 🥶   | kalt            | lěng      | 冷             |
-|     | warm (angenehm) | nuǎnhuo   | 暖和           |
+| 🤗   | warm (angenehm) | nuǎnhuo   | 暖和           |
 | 🥵   | heiß            | rè        | 热             |
 | 🌞   | sonnig          | qíng      | 晴             |
 | ☁   | bewölkt         | duō yún   | 多​云​的       |

@@ -61,6 +61,19 @@ Weitere Zählwörter werden in den einzelnen Abschnitten verwendet.
 ||||
 
 ## Zeit
+
+### Relative Zeiten
+| Deutsch        | Pinyin       | Schriftzeichen |
+| -------------- | ------------ | -------------- |
+| gestern        | zuótiān      | 昨天           |
+| heute          | jīntiān      | 今天           |
+| morgen         | míngtiān     | 明天           |
+| jetzt          | xiànzài      | 现在           |
+| kürzlich       | zuìjìn       | 最近           |
+| vorher, früher | yǐqián       | 以前           |
+| letzte ...     | shàng gè ... | 上​个          | ​
+| nächste ...    | xià gè ...   | 下​个          |
+
 ### Tageszeiten
 |     | Deutsch     | Pinyin   | Schriftzeichen |
 | --- | ----------- | -------- | -------------- |
@@ -101,18 +114,19 @@ Wenn du nach dem Wochentag fragen willst verwende **xīngqī jǐ**.
 ### Datum und Uhrzeit
 Beim Datum und der Uhrzeit werden folgende Begriffe verwendet.  
 
-| Deutsch                    | Pinyin  | Schriftzeichen |
-| -------------------------- | ------- | -------------- |
-| Sekunden                   | miǎo    | 秒             |
-| Minuten                    | fēn     | 分             |
-| Viertelstunde (15 Minuten) | kè      | 刻             |
-| halbe Stunde (auch Hälfte) | bàn     | 半             |
-| Stunde (Uhrzeit)           | diǎn    | 点             |
-| Stunde (Zeitraum)          | xiǎoshí | xiǎoshí        |
-|                            |         |                |
-| Tag                        | hào     | 号             |
-| Monat                      | yuè     | 月             |
-| Jahr                       | nián    | 年             |
+| Deutsch                        | Pinyin  | Schriftzeichen |
+| ------------------------------ | ------- | -------------- |
+| Sekunden                       | miǎo    | 秒             |
+| Minuten                        | fēn     | 分             |
+| Viertelstunde (15 Minuten)     | kè      | 刻             |
+| halbe Stunde (auch Hälfte)     | bàn     | 半             |
+| Dreiviertelstunde (45 Minuten) | sānkè   | 三刻           |
+| Stunde (Uhrzeit)               | diǎn    | 点             |
+| Stunde (Zeitraum)              | xiǎoshí | xiǎoshí        |
+|                                |         |                |
+| Tag                            | hào     | 号             |
+| Monat                          | yuè     | 月             |
+| Jahr                           | nián    | 年             |
 
 **Beispiele:**
 | Datum               | Pinyin                        | Erklärung                                                               |

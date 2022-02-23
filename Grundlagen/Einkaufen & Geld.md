@@ -1,9 +1,26 @@
 # Einkaufen & Geld
 
+|     | Deutsch              | Pinyin   | Schriftzeichen |
+| --- | -------------------- | -------- | -------------- |
+| 🧍‍♂️⬅🏪 | einkaufen            | mǎi      | 买             |
+| 🏪➡🧍‍♂️ | verkaufen            | mài      | 卖             |
+| 🏬👕🏃‍♀️ | sachaufensterbummeln | guàngjiē | 逛街           |
+| 💵   | bezahlen             | (zhī)fù    | (支)付           |
+
+Ich verkaufe Äpfel aber keine Birnen.
+Wǒ mài píngguǒ dàn bù mài lí.
+
+Ich kaufe Äpfel.
+Wǒ mǎi píngguǒ hé lí.
+
+### Einen Vorschlag machen ba
+Wollen wir am Wochenende zusammen schaufensterbummeln/in der Stadt einkaufen?
+Zhōumò wǒmen yīqǐ qù guàngjiē ba?
+
 ## Phrasen
 |     | Deutsch        | Pinyin       | Schriftzeichen |
 | --- | -------------- | ------------ | -------------- |
-|     | wieviel kostet | duōshǎo qián | 多少 钱        | 
+|     | wieviel kostet | duōshǎo qián | 多少 钱        |
 |     | die Anzahl     | duōshǎo      | 多少           |
 
 Wieviel kosten diese Trauben pro Pfund (600 g)?  

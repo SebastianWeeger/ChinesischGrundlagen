@@ -45,6 +45,7 @@ chī 吃
 | 🍫   | Schokolade             | kuài     | qiǎokèlì   | 巧克力         |
 | 🍕   | Pizza                  | gè, piàn | pīsà       | 披萨           |
 | 🍔   | Hamburger              | gè       | hànbǎo     | 汉堡           |
+| 🍰   | Kuchen                 | dàngāo   | ... kuài   | 蛋糕           |
 
 ### Zählwörter
 | Deutsch                       | Pinyin | Beispiel       | Schriftzeichen |
@@ -119,15 +120,16 @@ Natürlich, hier ist der Zucker.
 hǎode, gěi nín táng.
 
 ## Essbesteck
-|     | Deutsch    | Pinyin  | Zählwort | Schriftzeichen |
-| --- | ---------- | ------- | -------- | -------------- |
-| 🍴   | Gabel      | chāzi   | bǎ       | 叉子 ​         |
-| 🔪   | Messer     | dāo(zi) | bǎ       | 刀(子)         |
-| 🥄   | Löffel     | sháozi  | bǎ       | 勺子           |
-| 🥢   | Stäbchen   | kuàizi  | gēn      | 筷子           |
-| 🍽   | Teller     | pán(zi) | gè       | 盘(子)         |
-| 🍜   | Schüssel   | wǎn     | gè       | 碗             |
-| 🍽   | Essbesteck | cānjù   | gè       | 餐具           |
+|     | Deutsch                | Pinyin  | Zählwort | Schriftzeichen |
+| --- | ---------------------- | ------- | -------- | -------------- |
+| 🍴   | Gabel                  | chāzi   | bǎ       | 叉子 ​         |
+| 🔪   | Messer                 | dāo(zi) | bǎ       | 刀(子)         |
+| 🥄   | Löffel                 | sháozi  | bǎ       | 勺子           |
+| 🥢   | Stäbchen               | kuàizi  | gēn      | 筷子           |
+| 🍽   | Teller                 | pán(zi) | gè       | 盘(子)         |
+| 🍜   | Schüssel               | wǎn     | gè       | 碗             |
+| 🍽   | Essbesteck             | cānjù   | gè       | 餐具           |
+|     | Serviette, Taschentuch | zhǐjīn  | zhāng    | 纸巾           |
 
 Könntest du mir eine Schüssel Reis geben?
 nǐ kěyǐ gěi wǒ yī wǎn (mǐ)fàn ma?
